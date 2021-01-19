@@ -1,0 +1,12 @@
+C:\Users\fkarshenas\source\repos\finai11\finai11\bin\Debug\netcoreapp3.1\finai11.exe
+C:\Users\fkarshenas\source\repos\finai11\finai11\bin\Debug\netcoreapp3.1\finai11.deps.json
+C:\Users\fkarshenas\source\repos\finai11\finai11\bin\Debug\netcoreapp3.1\finai11.runtimeconfig.json
+C:\Users\fkarshenas\source\repos\finai11\finai11\bin\Debug\netcoreapp3.1\finai11.runtimeconfig.dev.json
+C:\Users\fkarshenas\source\repos\finai11\finai11\bin\Debug\netcoreapp3.1\finai11.dll
+C:\Users\fkarshenas\source\repos\finai11\finai11\bin\Debug\netcoreapp3.1\finai11.pdb
+C:\Users\fkarshenas\source\repos\finai11\finai11\obj\Debug\netcoreapp3.1\finai11.AssemblyInfoInputs.cache
+C:\Users\fkarshenas\source\repos\finai11\finai11\obj\Debug\netcoreapp3.1\finai11.AssemblyInfo.cs
+C:\Users\fkarshenas\source\repos\finai11\finai11\obj\Debug\netcoreapp3.1\finai11.csproj.CoreCompileInputs.cache
+C:\Users\fkarshenas\source\repos\finai11\finai11\obj\Debug\netcoreapp3.1\finai11.dll
+C:\Users\fkarshenas\source\repos\finai11\finai11\obj\Debug\netcoreapp3.1\finai11.pdb
+C:\Users\fkarshenas\source\repos\finai11\finai11\obj\Debug\netcoreapp3.1\finai11.genruntimeconfig.cache
